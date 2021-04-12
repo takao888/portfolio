@@ -90,9 +90,9 @@ hr {
 }
 
 .navbar-brand {
-  font-size: 60px;
-  padding-top: 0px;
+  padding-top: 10px;
   padding-bottom: 0px;
+  font-size: 40px;
 }
 
 .btn-theme {
@@ -163,6 +163,7 @@ hr {
   padding-top: 50px;
   padding-bottom: 50px;
   margin-top: 50px;
+  height: 620px;
 }
 
 #skills h3 {
